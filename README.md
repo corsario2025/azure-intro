@@ -1,1 +1,1 @@
-# azure-intro
+# azure-intro-staticwebapps
